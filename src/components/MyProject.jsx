@@ -10,6 +10,9 @@ const MyProject = () => {
 
             <div className='mx-auto max-w-7xl'>
 
+                <div className='w-60 h-60 bg-white opacity-20 rounded-full blur-2xl absolute top-[140%] left-[61%]'>
+                </div>
+
                 <div className=' text-center text-white mb-24'>
                     <h1 className='text-6xl font-bold mb-10' style={{ fontFamily: 'Syne', }}>My Projects Highlight</h1>
                     <button className='btn border border-[#FF9142] w-52 h-12 text-white rounded-full'>Explore More</button>
